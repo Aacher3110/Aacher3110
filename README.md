@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aacher3110
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in self-development
-- 🌱 I’m currently learning HTML5, CSS3, Python, JavaScript, Git, SQL
+- 🌱 I’m currently learning Python, Git, SQL
 - 📫 a.cherykau@gmail.com -- English, Russian languages
 
 <!---
